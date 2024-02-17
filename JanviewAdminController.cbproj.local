@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/01 17:23:56.999.960,=C:\Users\Developer\Desktop\CPP_PROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>2024/02/01 17:23:58.000.019,=C:\Users\Developer\Desktop\CPP_PROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2024/02/01 17:25:06.999.116,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\JanviewAdminControllerPCH1.h=C:\Users\Developer\Desktop\CPP_PROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>2024/02/01 17:25:06.999.125,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\JanviewAdminController.cbproj=C:\Users\Developer\Desktop\CPP_PROJECTS\Project1.cbproj</Transaction>
+    <Transaction>2024/02/01 17:25:36.999.408,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\TMainForm.cpp</Transaction>
+    <Transaction>2024/02/01 17:25:36.999.303,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\JvpController.cpp</Transaction>
+    <Transaction>2024/02/01 17:26:43.000.388,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\JvpController.cpp=</Transaction>
+    <Transaction>2024/02/01 17:28:46.000.741,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\GInterfaces.h</Transaction>
+    <Transaction>2024/02/01 17:29:43.000.861,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Control\TMessages.cpp</Transaction>
+    <Transaction>2024/02/01 17:30:15.000.810,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Forms\TAdminTaskForm.cpp</Transaction>
+    <Transaction>2024/02/01 17:30:15.000.913,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Forms\TCustomerTaskForm.cpp</Transaction>
+    <Transaction>2024/02/01 17:30:15.000.705,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Forms\TAdHocQuery.cpp</Transaction>
+    <Transaction>2024/02/01 17:30:15.000.516,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Forms\SetupTablesFromQbo.cpp</Transaction>
+    <Transaction>2024/02/01 17:30:16.999.368,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Forms\TInvoiceTaskForm.cpp</Transaction>
+    <Transaction>2024/02/01 17:30:16.999.533,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Forms\TPaymentTaskForm.cpp</Transaction>
+    <Transaction>2024/02/01 17:32:35.999.188,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TInvoiceHandler.cpp</Transaction>
+    <Transaction>2024/02/01 17:32:35.999.116,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TCustomerHandler.cpp</Transaction>
+    <Transaction>2024/02/01 17:32:35.999.280,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TTaxRateHandler.cpp</Transaction>
+    <Transaction>2024/02/01 17:32:35.999.152,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TEntityBaseHandler.cpp</Transaction>
+    <Transaction>2024/02/01 17:32:35.999.212,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TPaymentHandler.cpp</Transaction>
+    <Transaction>2024/02/01 17:32:35.999.251,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TStreamHandlerBase.cpp</Transaction>
+    <Transaction>2024/02/01 17:35:35.000.508,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TStreamBaseHandler.cpp=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TStreamHandlerBase.cpp</Transaction>
+    <Transaction>2024/02/01 17:35:35.000.508,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TStreamBaseHandler.h=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Handlers\TStreamHandlerBase.h</Transaction>
+    <Transaction>2024/02/01 17:37:23.999.684,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\Libs\TXMLFacade.cpp</Transaction>
+    <Transaction>2024/02/01 17:37:57.000.689,=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JanviewAdminController\TJvpUser.cpp</Transaction>
+    <Transaction>2024/02/02 20:32:48.000.561,=C:\Users\PJackson\Desktop\JanviewAdminController\Unit1.cpp</Transaction>
+    <Transaction>2024/02/02 20:37:47.999.525,C:\Users\PJackson\Desktop\JanviewAdminController\Unit1.cpp=C:\Users\PJackson\Desktop\JanviewAdminController\Control\QboRecord.cpp</Transaction>
+    <Transaction>2024/02/02 20:37:47.999.525,C:\Users\PJackson\Desktop\JanviewAdminController\Unit1.h=C:\Users\PJackson\Desktop\JanviewAdminController\Control\QboRecord.h</Transaction>
+    <Transaction>2024/02/02 20:57:09.000.999,C:\Users\PJackson\Desktop\JanviewAdminController\Control\QboRecord.cpp=C:\Users\PJackson\Desktop\JanviewAdminController\Control\TQboRecord.cpp</Transaction>
+    <Transaction>2024/02/02 20:57:09.000.999,C:\Users\PJackson\Desktop\JanviewAdminController\Control\QboRecord.h=C:\Users\PJackson\Desktop\JanviewAdminController\Control\TQboRecord.h</Transaction>
+    <Transaction>2024/02/02 22:00:32.999.100,C:\Users\PJackson\Desktop\JanviewAdminController\Control\TMessages.cpp=</Transaction>
+    <Transaction>2024/02/02 22:04:55.999.732,C:\Users\PJackson\Desktop\JanviewAdminController\Handlers\TEntityBaseHandler.cpp=</Transaction>
+    <Transaction>2024/02/02 22:05:13.000.712,=C:\Users\PJackson\Desktop\JanviewAdminController\Handlers\IEntityHandlerBase.cpp</Transaction>
+    <Transaction>2024/02/02 22:14:23.999.900,=C:\Users\PJackson\Desktop\JanviewAdminController\Libs\tinyxml2.cpp</Transaction>
+    <Transaction>2024/02/03 13:28:29.000.291,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JANVIEWADMIN\JanviewAdminController\Control\TFDRecord.cpp=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JANVIEWADMIN\JanviewAdminController\Control\TQboRecord.cpp</Transaction>
+    <Transaction>2024/02/03 13:28:29.000.291,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JANVIEWADMIN\JanviewAdminController\Control\TFDRecord.h=C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JANVIEWADMIN\JanviewAdminController\Control\TQboRecord.h</Transaction>
+    <Transaction>2024/02/05 13:23:49.000.625,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JANVIEWADMIN\JanviewAdminController\Control\TFDRecord.cpp=</Transaction>
+    <Transaction>2024/02/05 14:04:25.000.675,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JANVIEWADMIN\JanviewAdminController\Forms\TAdminTaskForm.cpp=</Transaction>
+    <Transaction>2024/02/05 14:13:38.000.561,C:\Users\Developer\Desktop\Janview-App\CodeProjects\ALL_JVP_PROJECTS\JANVIEWADMIN\JanviewAdminController\Forms\SetupTablesFromQbo.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
